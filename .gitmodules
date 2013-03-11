@@ -1,0 +1,3 @@
+[submodule "try/SOF_client/OAuth2Client"]
+	path = try/SOF_client/OAuth2Client
+	url = git@github.com:nxtbgthng/OAuth2Client.git
